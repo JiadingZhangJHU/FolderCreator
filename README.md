@@ -31,12 +31,8 @@
 
 ### 安装步骤
 
-1. 克隆仓库：
+1. 下载文件：
 
-   ```bash
-   git clone https://github.com/yourusername/FolderCreatorTool.git
-   cd FolderCreatorTool
-   ```
 
 2. 安装依赖：
 
@@ -49,7 +45,7 @@
    ```bash
    python Arc.py
    ```
-  在dist文件夹下有封装后文件，可直接运行
+
 ## 贡献
 
 欢迎贡献代码！请遵循以下步骤：
